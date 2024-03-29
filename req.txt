@@ -1,0 +1,6 @@
+gradio
+pandas
+joblib==1.1.1  # Adjust to the version you need this version is compatbile with scikit-learn==1.3.1
+scikit-learn==1.3.1  # Use the version compatible with your saved model
+numpy
+seaborn
