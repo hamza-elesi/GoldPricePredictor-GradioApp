@@ -70,4 +70,4 @@ This project was developed with ❤️ and a deep interest in economic forecasti
 ## Contact
 For any queries, feel free to contact us:
 - [Linkedin : Hamza EL MAATAOUI ](https://www.linkedin.com/in/hamza-el-maataoui/)
-- Project Link: [https://github.com/hamza-elesi/GoldPricePredictor-GradioApp](https://github.com/hamza-elesi/GoldPricePredictor-GradioApp)
+- Project Link : [https://github.com/hamza-elesi/GoldPricePredictor-GradioApp](https://github.com/hamza-elesi/GoldPricePredictor-GradioApp)
