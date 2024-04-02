@@ -58,16 +58,10 @@ Don't forget to give the project a star! Thanks again!
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## License
-Distributed under the MIT License. See `LICENSE` for more information.
-
 ## Contributors
-- [Hamza EL MAATAOUI](https://github.com/hamza-elesi) - *Initial Work*
+- [Hamza EL MAATAOUI](https://github.com/hamza-elesi) - *linear_regression_model training and  interface building*
+- [LIAICHI MUSTAPHA](https://github.com/MuLIAICHI) - *Forest_regressor_model training*
+- [ANOUAR Elhoucine](https://github.com/ANOUAR-ELHOUCINE) - *rapport and detailling the project*
 
 ## Acknowledgements
 This project was developed with ❤️ and a deep interest in economic forecasting. We hope it serves as a useful tool for those looking to understand the intricacies of gold price movements.
-
-## Contact
-For any queries, feel free to contact us:
-- [Linkedin : Hamza EL MAATAOUI ](https://www.linkedin.com/in/hamza-el-maataoui/)
-- Project Link : [https://github.com/hamza-elesi/GoldPricePredictor-GradioApp](https://github.com/hamza-elesi/GoldPricePredictor-GradioApp)
